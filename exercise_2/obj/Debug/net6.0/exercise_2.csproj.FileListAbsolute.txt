@@ -1,0 +1,75 @@
+C:/Users/adm/Desktop/C#/exercise_2/obj/Debug/net6.0/exercise_2.csproj.AssemblyReference.cache
+C:/Users/adm/Desktop/C#/exercise_2/obj/Debug/net6.0/exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adm/Desktop/C#/exercise_2/obj/Debug/net6.0/exercise_2.AssemblyInfoInputs.cache
+C:/Users/adm/Desktop/C#/exercise_2/obj/Debug/net6.0/exercise_2.AssemblyInfo.cs
+C:/Users/adm/Desktop/C#/exercise_2/obj/Debug/net6.0/exercise_2.csproj.CoreCompileInputs.cache
+C:/Users/adm/Desktop/C#/exercise_2/bin/Debug/net6.0/exercise_2.exe
+C:/Users/adm/Desktop/C#/exercise_2/bin/Debug/net6.0/exercise_2.deps.json
+C:/Users/adm/Desktop/C#/exercise_2/bin/Debug/net6.0/exercise_2.runtimeconfig.json
+C:/Users/adm/Desktop/C#/exercise_2/bin/Debug/net6.0/exercise_2.dll
+C:/Users/adm/Desktop/C#/exercise_2/bin/Debug/net6.0/exercise_2.pdb
+C:/Users/adm/Desktop/C#/exercise_2/obj/Debug/net6.0/exercise_2.dll
+C:/Users/adm/Desktop/C#/exercise_2/obj/Debug/net6.0/refint/exercise_2.dll
+C:/Users/adm/Desktop/C#/exercise_2/obj/Debug/net6.0/exercise_2.pdb
+C:/Users/adm/Desktop/C#/exercise_2/obj/Debug/net6.0/exercise_2.genruntimeconfig.cache
+C:/Users/adm/Desktop/C#/exercise_2/obj/Debug/net6.0/ref/exercise_2.dll
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/bin/Debug/net6.0/exercise_2.exe
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/bin/Debug/net6.0/exercise_2.deps.json
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/bin/Debug/net6.0/exercise_2.runtimeconfig.json
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/bin/Debug/net6.0/exercise_2.dll
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/bin/Debug/net6.0/exercise_2.pdb
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/obj/Debug/net6.0/exercise_2.csproj.AssemblyReference.cache
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/obj/Debug/net6.0/exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/obj/Debug/net6.0/exercise_2.AssemblyInfoInputs.cache
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/obj/Debug/net6.0/exercise_2.AssemblyInfo.cs
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/obj/Debug/net6.0/exercise_2.csproj.CoreCompileInputs.cache
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/obj/Debug/net6.0/exercise_2.dll
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/obj/Debug/net6.0/refint/exercise_2.dll
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/obj/Debug/net6.0/exercise_2.pdb
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/obj/Debug/net6.0/exercise_2.genruntimeconfig.cache
+C:/Users/adm/Desktop/C#/24.11.2022/lection/exercise_2/obj/Debug/net6.0/ref/exercise_2.dll
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/bin/Debug/net6.0/exercise_2.exe
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/bin/Debug/net6.0/exercise_2.deps.json
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/bin/Debug/net6.0/exercise_2.runtimeconfig.json
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/bin/Debug/net6.0/exercise_2.dll
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/bin/Debug/net6.0/exercise_2.pdb
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.csproj.AssemblyReference.cache
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.AssemblyInfoInputs.cache
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.AssemblyInfo.cs
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.csproj.CoreCompileInputs.cache
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.dll
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/obj/Debug/net6.0/refint/exercise_2.dll
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.pdb
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.genruntimeconfig.cache
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_2/obj/Debug/net6.0/ref/exercise_2.dll
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/bin/Debug/net6.0/exercise_2.exe
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/bin/Debug/net6.0/exercise_2.deps.json
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/bin/Debug/net6.0/exercise_2.runtimeconfig.json
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/bin/Debug/net6.0/exercise_2.dll
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/bin/Debug/net6.0/exercise_2.pdb
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.csproj.AssemblyReference.cache
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.AssemblyInfoInputs.cache
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.AssemblyInfo.cs
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.csproj.CoreCompileInputs.cache
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.dll
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/obj/Debug/net6.0/refint/exercise_2.dll
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.pdb
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/obj/Debug/net6.0/exercise_2.genruntimeconfig.cache
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_2/obj/Debug/net6.0/ref/exercise_2.dll
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/bin/Debug/net6.0/exercise_2
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/bin/Debug/net6.0/exercise_2.deps.json
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/bin/Debug/net6.0/exercise_2.runtimeconfig.json
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/bin/Debug/net6.0/exercise_2.dll
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/bin/Debug/net6.0/exercise_2.pdb
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/obj/Debug/net6.0/exercise_2.csproj.AssemblyReference.cache
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/obj/Debug/net6.0/exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/obj/Debug/net6.0/exercise_2.AssemblyInfoInputs.cache
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/obj/Debug/net6.0/exercise_2.AssemblyInfo.cs
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/obj/Debug/net6.0/exercise_2.csproj.CoreCompileInputs.cache
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/obj/Debug/net6.0/exercise_2.dll
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/obj/Debug/net6.0/refint/exercise_2.dll
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/obj/Debug/net6.0/exercise_2.pdb
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/obj/Debug/net6.0/exercise_2.genruntimeconfig.cache
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_2/obj/Debug/net6.0/ref/exercise_2.dll

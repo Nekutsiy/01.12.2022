@@ -1,0 +1,60 @@
+C:/Users/adm/Desktop/C#/exercise_3/bin/Debug/net6.0/exercise_3.exe
+C:/Users/adm/Desktop/C#/exercise_3/bin/Debug/net6.0/exercise_3.deps.json
+C:/Users/adm/Desktop/C#/exercise_3/bin/Debug/net6.0/exercise_3.runtimeconfig.json
+C:/Users/adm/Desktop/C#/exercise_3/bin/Debug/net6.0/exercise_3.dll
+C:/Users/adm/Desktop/C#/exercise_3/bin/Debug/net6.0/exercise_3.pdb
+C:/Users/adm/Desktop/C#/exercise_3/obj/Debug/net6.0/exercise_3.csproj.AssemblyReference.cache
+C:/Users/adm/Desktop/C#/exercise_3/obj/Debug/net6.0/exercise_3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adm/Desktop/C#/exercise_3/obj/Debug/net6.0/exercise_3.AssemblyInfoInputs.cache
+C:/Users/adm/Desktop/C#/exercise_3/obj/Debug/net6.0/exercise_3.AssemblyInfo.cs
+C:/Users/adm/Desktop/C#/exercise_3/obj/Debug/net6.0/exercise_3.csproj.CoreCompileInputs.cache
+C:/Users/adm/Desktop/C#/exercise_3/obj/Debug/net6.0/exercise_3.dll
+C:/Users/adm/Desktop/C#/exercise_3/obj/Debug/net6.0/refint/exercise_3.dll
+C:/Users/adm/Desktop/C#/exercise_3/obj/Debug/net6.0/exercise_3.pdb
+C:/Users/adm/Desktop/C#/exercise_3/obj/Debug/net6.0/exercise_3.genruntimeconfig.cache
+C:/Users/adm/Desktop/C#/exercise_3/obj/Debug/net6.0/ref/exercise_3.dll
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/bin/Debug/net6.0/exercise_3.exe
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/bin/Debug/net6.0/exercise_3.deps.json
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/bin/Debug/net6.0/exercise_3.runtimeconfig.json
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/bin/Debug/net6.0/exercise_3.dll
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/bin/Debug/net6.0/exercise_3.pdb
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.csproj.AssemblyReference.cache
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.AssemblyInfoInputs.cache
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.AssemblyInfo.cs
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.csproj.CoreCompileInputs.cache
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.dll
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/obj/Debug/net6.0/refint/exercise_3.dll
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.pdb
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.genruntimeconfig.cache
+C:/Users/1/Desktop/C#/24.11.2022/24.11.2022/practise/exercise_3/obj/Debug/net6.0/ref/exercise_3.dll
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/bin/Debug/net6.0/exercise_3.exe
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/bin/Debug/net6.0/exercise_3.deps.json
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/bin/Debug/net6.0/exercise_3.runtimeconfig.json
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/bin/Debug/net6.0/exercise_3.dll
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/bin/Debug/net6.0/exercise_3.pdb
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.csproj.AssemblyReference.cache
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.AssemblyInfoInputs.cache
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.AssemblyInfo.cs
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.csproj.CoreCompileInputs.cache
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.dll
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/obj/Debug/net6.0/refint/exercise_3.dll
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.pdb
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/obj/Debug/net6.0/exercise_3.genruntimeconfig.cache
+C:/Users/adm/Desktop/C#/26.11.2022/practise/exercise_3/obj/Debug/net6.0/ref/exercise_3.dll
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/bin/Debug/net6.0/exercise_3
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/bin/Debug/net6.0/exercise_3.deps.json
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/bin/Debug/net6.0/exercise_3.runtimeconfig.json
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/bin/Debug/net6.0/exercise_3.dll
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/bin/Debug/net6.0/exercise_3.pdb
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/obj/Debug/net6.0/exercise_3.csproj.AssemblyReference.cache
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/obj/Debug/net6.0/exercise_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/obj/Debug/net6.0/exercise_3.AssemblyInfoInputs.cache
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/obj/Debug/net6.0/exercise_3.AssemblyInfo.cs
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/obj/Debug/net6.0/exercise_3.csproj.CoreCompileInputs.cache
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/obj/Debug/net6.0/exercise_3.dll
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/obj/Debug/net6.0/refint/exercise_3.dll
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/obj/Debug/net6.0/exercise_3.pdb
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/obj/Debug/net6.0/exercise_3.genruntimeconfig.cache
+/Users/denispopov/Documents/Geek Brains/01.12.2022/exercise_3/obj/Debug/net6.0/ref/exercise_3.dll
